@@ -1,7 +1,7 @@
 # Devfont icons as icon font
 
 ## How to use?
-Copy folder font and the `devfont.css` over to your project
+Copy folder font and the `devfont.css` over to your project<br>
 Embed the `devfont.css` in your `index.html`
 ```html
 <link href="devfont.css">
